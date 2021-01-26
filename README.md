@@ -11,8 +11,11 @@ This project entails analyzing amazon product reviews of musical instruments to 
 - Here is the amount of 5 star reviews for vines and non vines:
   - 5 star vine reviews: 34
   - 5 star non-vine reviews: 8212
-- Here is the percentage of 5 star ratings for vine and non-vine reviews;
+- Here is the percentage of 5 star ratings for vine and non-vine reviews:
   - Vine: 56.67%
   - Non-vine: 56.72%
 
 ## Summary
+
+According to these results, there is no positivity bias between vine and non-vine reviews. The percentage of five star reviews for vine and non-vine reviews are nearly the same. In other words, the difference between the two percentages is not statistically significant. Further, the number of vine and non-vine reviews are significantly different, with non-vine reviews being over 241 times as prevalent as vine reviews. If the number of vine reviews and non-vine reviews were more similar, it would be more likely that there was positivity bias.
+Another test that could benefit this analysis is comparing the numbers and percentages of five star reviews of vine and non-vine reviews for multiple different product categories. If the number of votes and percentage of five star reviews in other product categories were similar to the number of votes and percentage of five star reviews in the musical instruments category, then the seemingly small difference would be more statistically significant. 
