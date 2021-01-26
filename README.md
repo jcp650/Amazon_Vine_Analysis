@@ -10,7 +10,7 @@ This project entails analyzing amazon product reviews of musical instruments to 
   - Non-vine reviews: 14,477
 - Here is the amount of 5 star reviews for vines and non vines:
   - 5 star vine reviews: 34
-  - 5 star non-vine reviews: 8212
+  - 5 star non-vine reviews: 8,212
 - Here is the percentage of 5 star ratings for vine and non-vine reviews:
   - Vine: 56.67%
   - Non-vine: 56.72%
